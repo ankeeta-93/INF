@@ -4,10 +4,17 @@
   overflow: hidden;
   margin-top: 0px;
   margin-left: 0px
+  margin-right:0;
+  padding:0px;
+  overflow: hidden;
 }
 a:link {
   text-decoration: none ;
 } 
+h1 {
+    margin: 0;
+    padding:0;
+}
 
 /* Style the links inside the navigation bar */
 .topnav a {
@@ -56,8 +63,11 @@ h1 {
   font-weight: bolder;
   margin-top: 1px;
 
+
 }
 body {
+	margin: 0;
+    padding:0;
 	background-color: FloralWhite;
     font-family: 'Fira Code';;
 }
