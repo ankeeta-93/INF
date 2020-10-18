@@ -1,48 +1,36 @@
-
-
-body{
-    font-family: 'Kumbh Sans', sans-serif;
-    background: #1A1A1A;
-    
-    
+body {
+  font-family: "Kumbh Sans", sans-serif;
+  background: #1a1a1a;
 }
-p{
-    font-family: 'IBM Plex Mono', monospace;
-    color:#A5A5A5;
-    line-height: 18px;
-    font-size: 14px;
+p {
+  font-family: "IBM Plex Mono", monospace;
+  color: #a5a5a5;
+  line-height: 18px;
+  font-size: 14px;
 }
-h1{
-    color: #A5A5A5;
-    margin-top: 10px;
-    font-size: 71px;
-    transition:color 500ms,font-size 500ms;
-    font-weight: lighter;
-
+h1 {
+  color: #a5a5a5;
+  margin-top: 10px;
+  font-size: 71px;
+  transition: color 500ms, font-size 500ms;
+  font-weight: lighter;
 }
 
-
-span{
-    color:#5EFA49;
-    font-weight: 600;
+span {
+  color: #5efa49;
+  font-weight: 600;
 }
-#insideContainer{
-    width:180px;
-    height:108px;
-    margin-top:120px;
+#insideContainer {
+  width: 180px;
+  height: 108px;
+  margin-top: 120px;
 }
-h1:hover{
-    color:white;
-    font-size:71px;
-    transition:color 500ms,font-size 500ms;
-    
+h1:hover {
+  color: white;
+  font-size: 71px;
+  transition: color 500ms, font-size 500ms;
 }
 
-
-#secondContainer{
-    margin-top:10%;
-
+#secondContainer {
+  margin-top: 10%;
 }
-
-
-
