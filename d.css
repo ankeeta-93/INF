@@ -1,84 +1,48 @@
-/* Add a black background color to the top navigation */
-.topnav {
-  background-color: #DEB887;
-  overflow: hidden;
-  margin-top: 0px;
-  margin-left: 0px
-  margin-right:0;
-  padding:0px;
-  overflow: hidden;
-}
-a:link {
-  text-decoration: none ;
-} 
-h1 {
-    margin: 0;
-    padding:0;
-}
-
-/* Style the links inside the navigation bar */
-.topnav a {
-  float: left;
-  color: black;
-  text-align: center;
-  padding: 16px 16px;
-  font-size: 16px;
-  font-family: 'Fira Code';
-}
-
-/* Change the color of links on hover */
-.topnav a:hover {
-  background-color: floralwhite;
-  color: black;
-}
-
-/* Add a color to the active/current link */
-.topnav a.active {
-  background-color: #DEB887;
-  color: black;
-}
-
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 5px;
-  width: 100%;
-
-}
-h4 {
-	text-align: center;
-  font-size: 22px;
-  margin-top: : 30px;
-  margin-bottom: 1px;
-  font-family: Fira Code
-  margin-bottom: 1px;
-}
-h1 {
-  text-align: center;
-  font-size: 120px;
-  font-weight: 200px
-  margin-bottom: 10px;
-  font-family: IBM Plex Sans;
-  font-weight: bolder;
-  margin-top: 1px;
 
 
+body{
+    font-family: 'Kumbh Sans', sans-serif;
+    background: #1A1A1A;
+    
+    
 }
-body {
-	margin: 0;
-    padding:0;
-	background-color: FloralWhite;
-    font-family: 'Fira Code';;
+p{
+    font-family: 'IBM Plex Mono', monospace;
+    color:#A5A5A5;
+    line-height: 18px;
+    font-size: 14px;
 }
-ul {
-	text-align: center;
-	font-size: 26px;
+h1{
+    color: #A5A5A5;
+    margin-top: 10px;
+    font-size: 71px;
+    transition:color 500ms,font-size 500ms;
+    font-weight: lighter;
+
 }
-footer {
-  text-align: center;
-  font-family: 'Fira Code';font-size: 16px;
-  padding: 5px;
-  background-color: DarkSalmon;
-  color: white;
+
+
+span{
+    color:#5EFA49;
+    font-weight: 600;
 }
+#insideContainer{
+    width:180px;
+    height:108px;
+    margin-top:120px;
+}
+h1:hover{
+    color:white;
+    font-size:71px;
+    transition:color 500ms,font-size 500ms;
+    
+}
+
+
+#secondContainer{
+    margin-top:10%;
+
+}
+
+
+
