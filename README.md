@@ -45,59 +45,55 @@
         <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
         
     </body>
-</html>
 <!DOCTYPE html>
 <html>
-  <head>
-    <img src="https://imgur.com/undefined" />
-  </head>
+    <head>
+        <body>
+            <a href="https://imgur.com/PbrL0r5"><img src="https://i.imgur.com/PbrL0r5.png" title="source: imgur.com" /></a>"
+        </body>
+    </head>
+    
+</body>
 </html>
 
-
-
 body{
-    font-family: 'Kumbh Sans', sans-serif;
-    background: #1A1A1A;
-    
-    
+font-family: 'Kumbh Sans', sans-serif;
+background: #1A1A1A;
+  
+  
 }
 p{
-    font-family: 'IBM Plex Mono', monospace;
-    color:#A5A5A5;
-    line-height: 18px;
-    font-size: 14px;
+font-family: 'IBM Plex Mono', monospace;
+color:#A5A5A5;
+line-height: 18px;
+font-size: 14px;
 }
 h1{
-    color: #A5A5A5;
-    margin-top: 10px;
-    font-size: 71px;
-    transition:color 500ms,font-size 500ms;
-    font-weight: lighter;
+color: #A5A5A5;
+margin-top: 10px;
+font-size: 71px;
+transition:color 500ms,font-size 500ms;
+font-weight: lighter;
 
 }
-
 
 span{
-    color:#5EFA49;
-    font-weight: 600;
+color:#5EFA49;
+font-weight: 600;
 }
 #insideContainer{
-    width:180px;
-    height:108px;
-    margin-top:120px;
+width:180px;
+height:108px;
+margin-top:120px;
 }
 h1:hover{
-    color:white;
-    font-size:71px;
-    transition:color 500ms,font-size 500ms;
-    
+color:white;
+font-size:71px;
+transition:color 500ms,font-size 500ms;
+  
 }
-
 
 #secondContainer{
-    margin-top:10%;
+margin-top:10%;
 
 }
-
-
-
