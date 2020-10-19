@@ -47,12 +47,7 @@
     </body>
 </html>
 
-<!DOCTYPE html>
-    <html>
-        <head>
-            <img src="/Users/annie/Desktop/INFOVIZ III/INFOVIZ SUBMISSION/Analysis img.png">
-        </head>
-    </html>
+
 
 body{
     font-family: 'Kumbh Sans', sans-serif;
